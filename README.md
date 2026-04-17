@@ -1,6 +1,6 @@
-# 🚨 SOC Command Center Dashboard
+# 🚨 SOC Command Center Simulation Dashboard
 
-A real-time **Security Operations Center (SOC) Dashboard** that simulates, detects, and visualizes cybersecurity threats using a full-stack architecture.
+A real-time **Security Operations Center (SOC) Simulation Dashboard** that simulates, detects, and visualizes cybersecurity threats using a full-stack architecture.
 
 ---
 
